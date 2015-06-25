@@ -1,0 +1,25 @@
+{
+  "name": "lean-ci-model",
+  "version": "0.1.0",
+  "main": "src/main/ts/model.js",
+  "dependencies": {
+    "chai": "2.0.0",
+    "grunt": "0.4.5",
+    "grunt-cli": "0.1.13",
+    "grunt-contrib-clean": "0.4.0",
+    "grunt-contrib-watch": "0.6.1",
+    "grunt-mocha-test": "^0.12.7",
+    "grunt-notify": "^0.4.1",
+    "grunt-typescript": "0.6.2",
+    "grunt-zip": "^0.16.2",
+    "mocha": "2.0.1",
+    "simple-mock": "^0.3.1"
+  },
+  "devDependencies": {
+    "immutable": "^3.7.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mserranom/lean-ci-model.git"
+  }
+}
